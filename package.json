@@ -24,6 +24,8 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^1.0.0",
     "nuxt": "^2.14.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.2",
     "vuesax": "^4.0.1-alpha.23"
   },
   "devDependencies": {
